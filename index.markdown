@@ -2,7 +2,7 @@
 title: Home
 date: 2017-05-08 15:50:00 Z
 Main Title: Sophisticated investing. Driven by artificial intelligence.
-Overview: 
+Overview: Our investments are designed to preserve and grow our limited partners capital
 Overview Highlight: 'Qantai is a hedge fund driven by artificial intelligence seeking
   to provide long-term returns through a universe of alternative strategies and emerging
   digital assets. '
