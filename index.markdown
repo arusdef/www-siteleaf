@@ -1,7 +1,7 @@
 ---
 title: Home
 date: 2017-05-08 15:50:00 Z
-Main Title: Make trust your competitive advantage today.
+Main Title: Institutional, sophisticated investing. Driven by artificial intelligence.
 Overview: With new metrics, tools and approaches we design experiences that earn brands
   the trust of their customers.
 Overview Highlight: The experiences we design capture hearts, minds and wallets.
